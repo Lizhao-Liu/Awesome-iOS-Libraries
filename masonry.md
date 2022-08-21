@@ -55,8 +55,6 @@
 
 
 
-
-
 黄色框内为masonry底层的四个类目，之间耦合性比较高，先看一下MASViewAttribute类。
 
 #### 2. MASViewAttribute类的介绍
